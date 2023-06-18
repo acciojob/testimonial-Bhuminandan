@@ -12,3 +12,7 @@ body{
 .para{
 	float: left;
 } 
+
+.right{
+	float: right;
+}
